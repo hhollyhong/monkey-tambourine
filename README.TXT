@@ -9,4 +9,4 @@ Each rhythm is one measure long, in 4/4 time. You get one empty measure on start
 After the monkey is finished, copy the rhythm back to the monkey as best you can! Press "e" to hit the tambourine, and "o" to shake.
 This repeats for 8 turns. Each rhythm is randomly generated. 
 
-![gameplay screenshot](/images/gameplay_screenshot.png)
+![gameplay screenshot](images/gameplay_screenshot.png)
